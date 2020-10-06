@@ -188,6 +188,7 @@ def buildLabelIndex(labels):
 """--------------------------------------"""
 """--------------------------------------"""
 """--------------------------------------"""
+
 class TieredImagenet(data.Dataset):
     def __init__(self, root, partition='train', category='tiered'):
         super(TieredImagenet, self).__init__()
