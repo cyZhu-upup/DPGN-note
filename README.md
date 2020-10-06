@@ -1,3 +1,7 @@
+##部分文件添加了中文注释，个人使用
+
+
+
 # DPGN: Distribution Propagation Graph Network for Few-shot Learning
 
 This repository is the official implementation of [DPGN: Distribution Propagation Graph Network for Few-shot Learning](https://arxiv.org/abs/2003.14247). 
